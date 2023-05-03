@@ -1,0 +1,25 @@
+.login-form-button{
+font-size: 20px;
+align-items: center;
+justify-content: center;
+text-align: center;
+width: 50%;
+height:100%;
+}
+.login-form-button:hover{
+    background-color: transparent !important;
+    color:blue !important;
+    border: 1px solid blue;
+}
+.login-form-remember{
+    position: relative;
+right: 230px;
+}
+.login-form-forgot{
+    position: relative;
+    bottom:25px;
+    left:200px
+
+}
+
+    
